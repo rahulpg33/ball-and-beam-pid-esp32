@@ -1,0 +1,7 @@
+build/
+*.bin
+*.elf
+.vscode/
+# Siemens NX backup/temp files
+*.prt.bak
+*.prt_*
